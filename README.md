@@ -8,3 +8,5 @@ Tutorial to retrieve the geographic coordinates associated with published DNA se
 
 range_maps_IUCN:
 A small tutorial on downloading species range maps from IUCN. This is a very small tutorial to access the International Union for Conservation of Nature (IUCN) range maps of species directly from the IUCN Red List of Threatened Species portal https://www.iucnredlist.org.
+
+Tutorial_BEAST_LA:
